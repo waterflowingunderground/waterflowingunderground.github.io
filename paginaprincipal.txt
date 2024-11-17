@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br"/>
+<head>
+<link rel = "shortcut icon" type = "imagem/x-icon" href = "swastika.ico"/>
+<title> Deutschland </title>
+<meta charset="UTF-8"/>
+<style>
+p{
+color: White;
+text-align: justify;
+font-size: 14pt;
+}
+h1{
+color: #111111;
+}
+body{
+background-color: #FF4136;
+}
+h2{
+color: #111111;
+font-size: 18pt;
+}
+h3{
+font-size: 50pt;
+color: #111111;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
